@@ -40,7 +40,7 @@ Este repositório faz parte do desafio proposto pela DIO para consolidar os conh
 
 Acesse: https://portal.azure.com/
 
-📷 **[Espaço para imagem:](`/1-portal.png`)**
+📷 ![Portal do Azure](images/1-portal.png)
 ---
 
 ### 2. Vá até **"Máquinas Virtuais"** e clique em **"Criar"**
@@ -52,7 +52,7 @@ Escolha:
 - Região (ex: Brazil South)  
 - Imagem (ex: Windows Server 2019)
 
-📷 **[Espaço para imagem:](`/2-configuracao-basica.png`)**
+📷 ![Configuração Básica da VM](images/2-configuracao-basica.png)
 
 ---
 
@@ -61,7 +61,7 @@ Escolha:
 - Nome de usuário
 - Senha segura (recomenda-se letras, números e símbolos)
 
-📷 **[`/3-credenciais.png`]**
+📷 ![Credenciais de Acesso](images/3-credenciais.png)
 
 ---
 
@@ -69,7 +69,7 @@ Escolha:
 
 - Escolha um tamanho compatível com sua cota de uso gratuito (ex: B1s)
 
-📷 **[`/4-tamanho-vm.png`]**
+📷 ![Tamanho e Tipo da VM](images/4-tamanho-vm.png)
 
 ---
 
