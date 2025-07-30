@@ -40,7 +40,7 @@ Este repositório faz parte do desafio proposto pela DIO para consolidar os conh
 
 Acesse: https://portal.azure.com/
 
-📷 **[Espaço para imagem: `/images/1-portal.png`]**
+📷 **[`/images/1-portal.png`]**
 
 ---
 
@@ -62,7 +62,7 @@ Escolha:
 - Nome de usuário
 - Senha segura (recomenda-se letras, números e símbolos)
 
-📷 **[Espaço para imagem: `/images/3-credenciais.png`]**
+📷 **[`/images/3-credenciais.png`]**
 
 ---
 
@@ -70,7 +70,7 @@ Escolha:
 
 - Escolha um tamanho compatível com sua cota de uso gratuito (ex: B1s)
 
-📷 **[Espaço para imagem: `/images/4-tamanho-vm.png`]**
+📷 **[`/images/4-tamanho-vm.png`]**
 
 ---
 
