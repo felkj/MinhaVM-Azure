@@ -40,7 +40,7 @@ Este repositório faz parte do desafio proposto pela DIO para consolidar os conh
 
 Acesse: https://portal.azure.com/
 
-📷 **[`/images/1-portal.png`]**
+📷 **`/images/1-portal.png`**
 
 ---
 
